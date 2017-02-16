@@ -13,7 +13,11 @@ In-game look of the mod
 
 ## Mod Installation
 
-The mod can be downloaded from mediafire [here](http://www.mediafire.com/file/69tgtl0wr1d6614/Super+Tool+Mod+UNZIP+THIS.zip). Once downloaded, unzip the file, and then it will look like this:
+The mod can be downloaded from mediafire [here](http://www.mediafire.com/file/69tgtl0wr1d6614/Super+Tool+Mod+UNZIP+THIS.zip).
+
+It will also require the Forge Modloader for Minecraft 1.8 to be installed, which can be found [here](http://files.minecraftforge.net/fml/1.8)
+
+Once downloaded, unzip the file, and then it will look like this:
 
 ![alt tag](https://github.com/Icebreaker9697/MoBlocksMoProblems/blob/master/readmeImages/modFiles.png)
 
