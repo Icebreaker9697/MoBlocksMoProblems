@@ -11,7 +11,7 @@ In-game look of the mod
 
 ![alt tag](https://github.com/Icebreaker9697/MoBlocksMoProblems/blob/master/readmeImages/recipe.png)
 
-## Mod Installation
+## Try it out
 
 The mod can be downloaded from mediafire [here](http://www.mediafire.com/file/69tgtl0wr1d6614/Super+Tool+Mod+UNZIP+THIS.zip).
 
