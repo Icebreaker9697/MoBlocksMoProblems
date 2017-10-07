@@ -1,0 +1,16 @@
+[
+{
+  "modid": "moblocks",
+  "name": "MoBlocksMoProblems",
+  "description": "Gives ya more stuff",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["yea"],
+  "credits": ":)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
